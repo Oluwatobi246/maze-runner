@@ -1,4 +1,4 @@
-this code was mad by 3 brains 
+this code was made by 3 brains 
 1. Solomon
 2. Olasukanmi (Radical-nerd)
 3. Samuel
